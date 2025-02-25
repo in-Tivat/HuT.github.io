@@ -2,7 +2,7 @@
 title: jekyll 随笔 测试 & 改写
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: HuT
-date: 2025-02-24 11:33:00 +0800
+date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
