@@ -1,17 +1,16 @@
 ---
 title: jekyll 随笔 测试 & 改写
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: cotes
-date: 2019-08-08 11:33:00 +0800
+author: HuT
+date: 2025-02-24 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /commons/devices-mockup.png
+  path: /0.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 ## Headings
@@ -34,14 +33,6 @@ image:
 ## Paragraph
 
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
-除此之外，根据表2的数据，我们的3D-CTrans模型相对于CNN-LSTM表现出显著的性能提升。具体而言，相对于CNN-LSTM的 recall、precision 和 F1 分数分别为 90.4%，91.5% 和 90.9%，我们的模型在这些指标上分别提高了6.78%，5.45% 和 6.06%。这表明我们的模型更好地捕捉到了实际正例，具有更全面的情感类别识别能力，且在预测正例时更可信，减少了误报的可能性，同时，F1 分数的提升意味着我们的模型在查全率和查准率之间取得了更好的平衡。这使得模型在全面性和准确性之间找到了更优的权衡点，提高了整体性能。
-
-
-最早关于情绪识别的研究可以追溯到美国麻省理工学院媒体实验室的罗莎琳德·皮卡德教授。她在研究中提出了一个名为“情感计算”的概念，其强调了情感在人机交互中的关键作用[1]。
-
-这一概念旨在使计算机能够感知、理解和模拟人类情绪以便使这些智能系统更好地适应用户的情绪需求，从而扩大应用领域，提高技术的智能化水平。
-
-为了将情绪量化用于计算研究，Musha等人首先提出了一种用于情绪识别的特定计算方法[2]，他们定义了情绪矩阵，并将脑电图特征转换为四维向量，对应于四种不同的情绪，最终实现了最大时间分辨率为0.64秒的实时情绪分析。
 
 ## Lists
 
